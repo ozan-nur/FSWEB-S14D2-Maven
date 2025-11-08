@@ -34,4 +34,9 @@ public class Bed {
     public int getQuilts() {
         return quilt;
     }
+
+    public String getStyle() {
+        return style;
+    }
+
 }
